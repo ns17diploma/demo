@@ -1,3 +1,5 @@
 new branch
 add something
 something else
+
+something from master
