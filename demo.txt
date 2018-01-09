@@ -2,4 +2,4 @@ new branch
 add something
 something else
 
-something from master
+something from master a
